@@ -41,8 +41,6 @@ Hell yeah! This project is open source and avalible to everyone, so feel free to
 
 <h3>Where did you find all of the BLE codes?</h3>
 
-There is a post on a website called emcot.world that has shows you how to assemble the color codes that can be used.
-
-https://emcot.world/Disney_MagicBand%2B_Bluetooth_Codes
+There is a post on a website called emcot.world that has shows you how to assemble the color codes that can be used. https://emcot.world/Disney_MagicBand%2B_Bluetooth_Codes
 
 Haw8411 has a more robust version of this app for Android phones and Flipper Zeros. If you want to change the color from a rainbow to something else. Check it out. https://github.com/haw8411/magic-band-plus-lights
